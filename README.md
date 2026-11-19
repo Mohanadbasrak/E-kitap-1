@@ -126,7 +126,6 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
 - **Ekler:**
   - Yazdırılabilir dört form: kendi tarifim, parti kaydı, yanma testi günlüğü, birim maliyet.
   - 37 terimlik sözlük.
-  - Cage Art Studio kaynakları.
 
 #### Değişen ve düzeltilen içerik
 
@@ -155,6 +154,37 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
   - "Yeşil Orman" ve "Kış Masalı" koku formülleri yenilendi.
 - **Satış bölümünde** "toptan" ifadeleri "kurumsal ve çoklu sipariş" olarak değiştirildi.
 - **Hitap dili** sitenin diliyle uyumlu olsun diye "sen"den "siz"e geçti.
+
+#### Yayın öncesi son kontrolde düzeltilenler
+
+- **Doğal Soya Wax:** Cep Kartı ve sıcaklık cetvelinde 55–60 °C döküm değeri kaldırıldı; wax 65–70 °C'de eridiği için "ürün talimatı + deneme dökümü" yazıldı.
+- **Yanıcı süsler (Bölüm 6.4):** Yakılacak mumda kuru çiçek, tarçın, kurdele gibi süsler artık paketin dışında tutuluyor. Süs gömülen mum yalnızca "Dekoratif ürün, yakmayın" notuyla sunuluyor. Koku teşhis tablosu da buna uyduruldu.
+- **Güvenlik:**
+  - Alev çok büyüdüğünde önce mum söndürülüyor, fitil soğuyunca kesiliyor.
+  - Cereyanda yanan mum taşınmıyor; önce söndürülüyor.
+  - Folyo yöntemine cam uyarısı eklendi.
+  - Bakım kartına kalıp mumu için 5 cm sınırı eklendi.
+  - Buhurdanlıkta açık alev uyarısı eklendi.
+  - Jelde esans uyumluluğu uyarısı eklendi.
+  - Cila için maske ve göz koruması için gözlük eklendi.
+- **Hesaplar:**
+  - Şekil 9.1'deki kâr %15 komisyon ve %40 marjla yeniden hesaplandı: ~278 TL yerine ~222 TL.
+  - Yanma süresi "teorik süre" olarak açıklandı; dipte kalan wax'ın yanmadığı belirtildi.
+  - Wax melt formülü "toplam ÷ 1,10" olarak düzeltildi.
+  - Harman örneği 60/40 orana getirildi (24 + 16 g).
+  - Reçete 14'e esans payı eklendi.
+- **Alerjen eşikleri (Tablo 9.3):** Eşikler tek bileşen için veriliyor (%0,1 ve %1; güçlü bileşenlerde %0,01 ve %0,1). EUH208 metni "yol açabilir" olarak düzeltildi. Örnek hesap %0,09'a düzeltildi.
+- **Kurumsal fiyatlama:** "Birim fiyat düşer" ifadesi kaldırıldı. İki katmanlı fiyat yapısı ve mağazanın raf fiyatı açıkça anlatıldı.
+- **Ürün bilgileri:**
+  - Şamdan M3 (21,2 × 2,6 cm) ve M9–M11 (22 × 1,9 cm) ölçüleri eklendi.
+  - "Swirl Küre" adı sitedeki gibi "Swiral Küre" oldu.
+  - Fitil boyu kuralı ve fitil çapı aralıkları düzeltildi.
+  - 150 g bardak için "kapağını kapatmayın" yerine "üstünü örtmeyin" yazıldı.
+- **Tutarlılık ve dil:**
+  - Kapakta "10 bölüm" yerine "11 bölüm" yazıldı (00–10).
+  - Önsözdeki ters anlamlı cümle düzeltildi.
+  - Şekil 7.2 ve 9.3 altyazıları fotoğraflara uyduruldu.
+  - Küçük yazım düzeltmeleri yapıldı.
 
 #### Kaldırılanlar
 
@@ -208,5 +238,6 @@ Kitapta değişiklik yaparken şu kurallara uyun:
 ## Notlar
 
 - Bazı blog yazıları e-kitabı "12 reçete" ile tanıtıyor. 2.0.0 sürümünde 16 reçete var; ilgili yazılar güncellenebilir.
+- "Evde mum yapıp satmak" yazısındaki alerjen tablosu "hassaslaştırıcıların toplamı %1" diyor. Kitapta eşikler tek bileşen için verildi; blogdaki satır da buna göre güncellenebilir.
 - Maliyet örneğindeki fiyatlar Ekim 2026 tarihlidir. Fiyatlar değiştikçe Tablo 9.1'in güncellenmesi gerekir.
 - Baskıdaki içindekiler sayfa numaraları Chrome'un A4 çıktısına göre hesaplanmıştır. İçerik değişirse bu numaraları yeniden hesaplayın.
