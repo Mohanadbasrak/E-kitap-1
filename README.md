@@ -16,7 +16,7 @@
 |---|---|
 | Telefon / tablet | Bağlantıyı açın. Üstteki **İçindekiler** düğmesi tüm bölümlere götürür. **Aa** yazı boyutunu değiştirir. Kitap, kaldığınız bölümü hatırlar. |
 | Bilgisayar | Aynı bağlantı. Hesaplayıcılar sayfanın içinde çalışır. |
-| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile 97 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
+| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile 111 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
 
 ---
 
@@ -47,7 +47,8 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
   - Kapak ve kapanış tam sayfa.
   - Boş ya da tek satırlık sayfa kalmayacak şekilde düzenlendi: uzun tablolar sayfalar arasında bölünüyor (başlık satırı her sayfada tekrar ediyor), reçeteler sayfa başına iki ya da üç tane, fotoğraflar sayfaya sığacak boyutta basılıyor ve bölüm sonları ölçülerek gerektiğinde sıkıştırılıyor.
 - 15 fotoğrafın tamamı korundu ve **netleştirildi**: yüksek kaliteli büyütme ve hafif keskinleştirmeyle 1000–1100 pikselden 1600–1760 piksele çıkarıldı, WebP olarak gömüldü. Baskıda fotoğraflar 400 ppi'nin üzerinde çıkıyor; yüksek çözünürlüklü telefon ve bilgisayar ekranlarında bulanıklaşmıyor.
-- Bütün şemalar yeni paletle yeniden çizildi.
+- Bütün şemalar yeni paletle yeniden çizildi; bunlara **16 yeni vektörel şema** eklendi: wax formları, çapa göre fitil, kap ölçüleri, kapasite çubuğu, kalıba fitil takma, su yöntemi, ikinci döküm, kalıptan çıkarma, koku piramidi, renk karışımı, ilk yakış, güvenli mesafe, yanma testi, fiyat yapısı, etiket örneği ve sezon takvimi. Telefonda şemalar okunur boyutta gösterilir ve yana kaydırılabilir.
+- **19 yeni fotoğraf** eklendi (Pexels, ücretsiz lisans): termometreyle ölçüm, fitil yerleştirme, dinlendirme, çoklu döküm, esans, bubble mum, süsleme, fitil kesme, söndürücü, is, parti kaydı, etiket, ürün fotoğrafı, marka, hediye ve koleksiyon. Kitapta toplam 34 fotoğraf, 51 şekil ve 30 tablo var.
 
 #### Yeni ekran özellikleri
 
@@ -157,6 +158,8 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
 
 #### Kaldırılanlar
 
+- Kaynaklar: künyedeki "Kaynaklar" satırı ve "Ek 3 · Cage Art Studio kaynakları" bölümü; okuru başka sayfalara yönlendiren cümleler kitabın kendi içinde çözüldü. "Tedarikte üç altın kural" kutusu Bölüm 1.9'a taşındı.
+
 - Sayfalarda gizli duran "Fotoğraf Alanı" yer tutucuları ve görsel üretim istemleri.
 - Playfair Display ve Poppins yazı tipleri (yerine sitedeki Manrope ve Inter Tight geldi).
 
@@ -196,6 +199,11 @@ Kitapta değişiklik yaparken şu kurallara uyun:
 **Kaynaklar**
 - cagearts.com/blog mum yazıları.
 - Sıkça Sorulan Sorular, Akademi, Kalıp Kullanım Talimatı ve /pages/kalip-nasil-kesilir sayfaları.
+
+## Fotoğraflar
+
+- 15 fotoğraf 1.0.0 sürümünden geliyor.
+- 19 fotoğraf [Pexels](https://www.pexels.com/license/) üzerinden alındı. Pexels lisansı ticari kullanıma izin veriyor ve kaynak gösterme zorunluluğu yok. Kitapta kaynak bölümü bulunmadığı için fotoğraf kimlikleri burada kayıtlı: 6755628, 5760780, 6755744, 8272376, 7615878, 6044963, 7233956, 7033937, 6755809, 6752300, 8271829, 6311870, 7309930, 6755793, 6333008, 6755760, 7233971, 6634662, 7004668.
 
 ## Notlar
 
