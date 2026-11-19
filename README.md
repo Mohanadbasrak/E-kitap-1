@@ -16,7 +16,7 @@
 |---|---|
 | Telefon / tablet | Bağlantıyı açın. Üstteki **İçindekiler** düğmesi tüm bölümlere götürür. **Aa** yazı boyutunu değiştirir. Kitap, kaldığınız bölümü hatırlar. |
 | Bilgisayar | Aynı bağlantı. Hesaplayıcılar sayfanın içinde çalışır. |
-| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile yaklaşık 110 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
+| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile yaklaşık 108 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
 
 ---
 
@@ -28,16 +28,24 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
 
 #### Tasarım
 
-- **cagearts.com'un yeni teması** uygulandı.
-  - Renkler: sıcak siyah `#1F1A16`, beyaz ve marka turuncusu `#E34E05`.
-  - Yazı tipleri: başlıklarda **Instrument Serif** (vurgu kelimesi italik ve turuncu), metinde **Inter Tight**.
+- **cagearts.com'un tasarımı birebir uygulandı.**
+  - Yazı tipleri sitedekiyle aynı: başlıklarda **Manrope** (700), metinde **Inter Tight**. Vurgu kelimesi italik değil, sitedeki gibi düz ve turuncu.
+  - Renkler: sıcak siyah `#1F1A16`, beyaz, marka turuncusu `#E34E05`; sitedeki gri paneller (`#F3F2F0`) ve ince çizgiler (`#E5E2DE`).
+  - Bileşenler sitenin rehber sayfalarından alındı: numara rozetli kısım başlıkları, "Kısaca" özet kutusu, ince çerçeveli tablolar, turuncu numaralı adımlar, gri sayı kartları, açılır sorun kartları.
+- **Cage Art Studio logosu** üst çubukta, kapakta, kapanışta ve baskıda her sayfanın üst bilgisinde kullanılıyor.
+- **Düzenli bölüm yapısı:**
+  - Her bölüm aynı sırayla açılıyor: üst etiket, başlık, kısa giriş, **Kısaca** kutusu (bölümün ana noktaları) ve **Bu bölümde** listesi.
+  - Bölümün kısımları ince çizgilerle ayrılıyor; her kısım numara rozetiyle başlıyor.
+- **Kapak:** Beyaz zemin, logo, başlık ve fotoğraf; sitedeki "öne çıkan rehber" kartı düzeninde.
+- **Kapanış:** Sitedeki koyu iletişim kutusu düzeninde.
 - **Telefona uyumlu akışkan düzen.** v1'in sabit 210 mm genişlikteki sayfaları telefonda küçülüyordu; artık metin her ekranda kendi boyutunda akıyor. Tablolar telefonda yana kaydırılabiliyor.
 - **Ayrı A4 baskı düzeni:**
-  - Üst bilgi ve sayfa numarası.
+  - Üst bilgide logo, altta sayfa numarası.
   - Her bölüm yeni sayfada başlıyor.
   - Tablo, kart ve reçeteler sayfa arasında bölünmüyor.
+  - Açılır sorun kartları baskıda otomatik açılıyor.
   - Kapak ve kapanış tam sayfa.
-- 15 fotoğrafın tamamı korundu. Bütün şemalar (mum anatomisi, sıcaklık merdiveni, kalıp kesiti, kesim ve sarma, ombre planı, yanma durumları) yeni paletle yeniden çizildi.
+- 15 fotoğrafın tamamı korundu. Bütün şemalar yeni paletle yeniden çizildi.
 
 #### Yeni ekran özellikleri
 
@@ -53,7 +61,7 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
   - Ne kadar malzeme lazım? (beş ürün türü)
   - Maliyet ve fiyat.
 - **Kaydedilen kontrol listeleri:** Döküm öncesi hazırlık, kap kontrolü ve gönderim öncesi kontrol.
-- **Sorun arama kutusu:** Sorun Giderme Atlası'nda belirti yazınca ilgili kartlar süzülüyor.
+- **Sorun arama kutusu:** Sorun Giderme Atlası'nda belirti yazınca ilgili kartlar süzülüp açılıyor. Kartlar sitedeki gibi açılır; içinde "Neden olur?", "Nasıl düzelir?" ve "Önlemek için" kutuları var.
 - **Tıklanabilir içindekiler:** Ekranda bağlantı olarak çalışıyor, baskıda sayfa numarası gösteriyor.
 
 #### Eklenen içerik
@@ -148,7 +156,7 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
 #### Kaldırılanlar
 
 - Sayfalarda gizli duran "Fotoğraf Alanı" yer tutucuları ve görsel üretim istemleri.
-- Playfair Display ve Poppins yazı tipleri.
+- Playfair Display ve Poppins yazı tipleri (yerine sitedeki Manrope ve Inter Tight geldi).
 
 ### [1.0.0]
 
