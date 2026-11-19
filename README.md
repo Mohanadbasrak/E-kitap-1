@@ -126,7 +126,6 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
 - **Ekler:**
   - Yazdırılabilir dört form: kendi tarifim, parti kaydı, yanma testi günlüğü, birim maliyet.
   - 37 terimlik sözlük.
-  - Cage Art Studio kaynakları.
 
 #### Değişen ve düzeltilen içerik
 
