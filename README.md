@@ -16,7 +16,7 @@
 |---|---|
 | Telefon / tablet | Bağlantıyı açın. Üstteki **İçindekiler** düğmesi tüm bölümlere götürür. **Aa** yazı boyutunu değiştirir. Kitap, kaldığınız bölümü hatırlar. |
 | Bilgisayar | Aynı bağlantı. Hesaplayıcılar sayfanın içinde çalışır. |
-| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile yaklaşık 108 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
+| A4 baskı / PDF | İçindekiler menüsündeki **A4 yazdır / PDF** düğmesi ya da tarayıcının Yazdır komutu. Chrome ile 97 sayfa çıkar. İçindekiler sayfa numaralıdır; her sayfada üst bilgi ve sayfa numarası bulunur. Hesaplayıcılar baskıda formül kutusuna dönüşür. |
 
 ---
 
@@ -45,7 +45,9 @@ Kitap baştan sona yeniden yazıldı ve yeniden tasarlandı. İçerik; cagearts.
   - Tablo, kart ve reçeteler sayfa arasında bölünmüyor.
   - Açılır sorun kartları baskıda otomatik açılıyor.
   - Kapak ve kapanış tam sayfa.
-- 15 fotoğrafın tamamı korundu. Bütün şemalar yeni paletle yeniden çizildi.
+  - Boş ya da tek satırlık sayfa kalmayacak şekilde düzenlendi: uzun tablolar sayfalar arasında bölünüyor (başlık satırı her sayfada tekrar ediyor), reçeteler sayfa başına iki ya da üç tane, fotoğraflar sayfaya sığacak boyutta basılıyor ve bölüm sonları ölçülerek gerektiğinde sıkıştırılıyor.
+- 15 fotoğrafın tamamı korundu ve **netleştirildi**: yüksek kaliteli büyütme ve hafif keskinleştirmeyle 1000–1100 pikselden 1600–1760 piksele çıkarıldı, WebP olarak gömüldü. Baskıda fotoğraflar 400 ppi'nin üzerinde çıkıyor; yüksek çözünürlüklü telefon ve bilgisayar ekranlarında bulanıklaşmıyor.
+- Bütün şemalar yeni paletle yeniden çizildi.
 
 #### Yeni ekran özellikleri
 
